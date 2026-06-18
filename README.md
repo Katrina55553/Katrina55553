@@ -1,16 +1,18 @@
-## Hi there 👋
+你好，我是 Katrina
 
-<!--
-**Katrina55553/Katrina55553** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+一名AI全栈开发者 
 
-Here are some ideas to get you started:
+个人网站： [cogod.cn](https://cogod.cn)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+
+<!-- 统计卡片和常用语言 -->
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Katrina55553&show_icons=true&theme=dark" alt="Katrina的GitHub统计" />
+    </td>
+  </tr>
+</table>
+
